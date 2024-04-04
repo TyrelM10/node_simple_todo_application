@@ -1,2 +1,2 @@
-# node_simple_todo_application
+# Simple Todo Application
 A simple TODO Application in Nodejs, Express, EJS and MongoDB
